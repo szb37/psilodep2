@@ -1,0 +1,2 @@
+The results presented here correspond to the 'Analysis using treatment agnostic expectancy measure', see Supplementary materials of the manuscript.
+Models are the exact same as described on the manuscript with the exception that the 'avergae expectancy' is used, i.e. for each patient the average of the esciatlopram and psilocybin expectancy (instead of received treatment expectancy). 

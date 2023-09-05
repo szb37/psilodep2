@@ -1,0 +1,28 @@
+patient_id,
+trt,
+scale,
+tp,
+score,
+score_bsl,
+score_chg,
+age,
+sex,
+edu: education as categorical variable [0: Up to high school; 1: UG degree; 2: Masters and above]
+ill_dur: illness_duration in years
+modtas_total,
+modtas_ii: modtas subdimension,
+modtas_asc: modtas subdimension,
+modtas_ain: modtas subdimension,
+modtas_esp: modtas subdimension,
+modtas_syn: modtas subdimension,
+sss: short suggestibility scale,
+ta: therepuatic alliance at pre-session1
+psi: psilocybin therapy expectancy at pre-session1
+esc: escitalopram therapy expectancy at pre-session1
+rtx: the received therapy's expectancy at pre-session1
+avg: trial expectancy, the average of psi and esc expectancy
+diffra: expentancy difference, received theraphy's exp - alternative theraphy's exp (at pre-session1)
+diffpe: expentancy difference, psilocybin theraphy's exp - escitalopram theraphy's exp (at pre-session1)
+
+
+for qids wk2 and 3 measures were taken from weekly qids, but not clear which is the last measure before dose 2
